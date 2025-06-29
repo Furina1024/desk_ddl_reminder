@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/untitled_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/OMEN/Desktop/project/untitled",
+	"CMAKE_SOURCE_DIR" : "C:/Users/OMEN/Desktop/project/untitled",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/untitled_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/OMEN/Desktop/project/untitled/video.mp4",
+		"C:/Users/OMEN/Desktop/project/untitled/bg5.png",
+		"C:/Users/OMEN/Desktop/project/untitled/history.png",
+		"C:/Users/OMEN/Desktop/project/untitled/bg6.jpg",
+		"C:/Users/OMEN/Desktop/project/untitled/bg3.jpg",
+		"C:/Users/OMEN/Desktop/project/untitled/speech_bubble.png",
+		"C:/Users/OMEN/Desktop/project/untitled/bg4.png",
+		"C:/Users/OMEN/Desktop/project/untitled/selection.png",
+		"C:/Users/OMEN/Desktop/project/untitled/todolist.png",
+		"C:/Users/OMEN/Desktop/project/untitled/bg2.png",
+		"C:/Users/OMEN/Desktop/project/untitled/furina.png",
+		"C:/Users/OMEN/Desktop/project/untitled/bg.png",
+		"C:/Users/OMEN/Desktop/project/untitled/credits.png",
+		"C:/Users/OMEN/Desktop/project/untitled/bg7.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/untitled_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "E:/qt/6.9.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/untitled_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/OMEN/Desktop/project/untitled/image.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
