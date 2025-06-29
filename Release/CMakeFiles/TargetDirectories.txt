@@ -1,9 +1,0 @@
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/untitled.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
-C:/Users/OMEN/Desktop/project/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/untitled_autogen.dir
