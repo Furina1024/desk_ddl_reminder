@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.png</file>
+        <file>bg2.png</file>
+        <file>selection.png</file>
+        <file>todolist.png</file>
+        <file>credits.png</file>
+        <file>history.png</file>
+        <file>bg3.jpg</file>
+        <file>bg5.png</file>
+        <file>bg6.jpg</file>
+        <file>bg7.jpg</file>
+        <file>bg4.png</file>
+        <file>furina.png</file>
+        <file>speech_bubble.png</file>
+    </qresource>
+    <qresource prefix="/videos">
+        <file>video.mp4</file>
+    </qresource>
+</RCC>
